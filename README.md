@@ -1,4 +1,9 @@
-# Puppet colloquy for Boxen
+# Colloquy Puppet Module for Boxen
 
-FIXME: update me bro
+Requires the `boxen` puppet module.
 
+## Usage
+
+```puppet
+include colloquy
+```
