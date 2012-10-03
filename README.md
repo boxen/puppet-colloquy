@@ -7,3 +7,9 @@ Requires the `boxen` puppet module.
 ```puppet
 include colloquy
 ```
+
+## Developing
+
+Write code.
+
+Run `script/cibuild`.
