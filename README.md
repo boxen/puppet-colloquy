@@ -1,6 +1,6 @@
 # Colloquy Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
+Install the [Colloquy](http://colloquy.info) IRC client.
 
 ## Usage
 
@@ -8,8 +8,11 @@ Requires the `boxen` puppet module.
 include colloquy
 ```
 
-## Developing
+## Required Puppet Modules
 
-Write code.
+* `boxen`
 
-Run `script/cibuild`.
+## Development
+
+Write code. Run `script/cibuild` to test it. Check the `script`
+directory for other useful tools.
